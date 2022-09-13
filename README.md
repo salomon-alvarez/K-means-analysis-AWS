@@ -1,4 +1,4 @@
-# Amazon Web Services Homework
+# K-means on Amazon Web Services 
 
 ## Background
 
