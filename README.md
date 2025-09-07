@@ -67,3 +67,15 @@ Create a data table with all the current tradable cryptocurrencies.
 
 
 Create a scatter plot to present the clustered data about cryptocurrencies having x="TotalCoinsMined" and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins.
+
+
+Next Steps for You
+	1.	Images: Make sure to export and save these in images/project11/:
+	•	p11_elbow_curve.png
+	•	p11_3dscatter.png
+	•	p11_clusters_table.png (can be a screenshot of your final dataframe)
+	•	p11_supply_vs_mined.png
+	2.	GitHub Link: Replace "your_repo_name" in the link with the actual repo name if you host this project on GitHub.
+	3.	Test the Page: Open the .html file in your browser to verify layout and formatting.
+
+
